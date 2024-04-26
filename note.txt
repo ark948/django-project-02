@@ -11,4 +11,8 @@
 > git add .
 > git commit -m "re-initialized everything"
 > git push -u origin master
-> 
+> python manage.py startapp pages
+> add app to INSTALLED_APPS
+> python manage.py migrate
+> python manage.py runserver
+
