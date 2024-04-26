@@ -17,3 +17,7 @@
 > python manage.py runserver
 > added project level templates directory
 > edited the dirs in TEMPLATES in settings.py
+
+- books asks to use heroku and deploy website. heroku has blocked iranian users.
+also multi authentication factor is required.
+- i must either find other free deployment options or skip that step entirely.
