@@ -15,4 +15,5 @@
 > add app to INSTALLED_APPS
 > python manage.py migrate
 > python manage.py runserver
-
+> added project level templates directory
+> edited the dirs in TEMPLATES in settings.py
