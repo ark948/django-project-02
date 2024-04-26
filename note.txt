@@ -6,4 +6,9 @@
 > git add .gitignore
 > git add .
 > git commit -m "First commit"
+- added git to repo
+> git remote add origin https://github.com/ark948/django-project-02.git
+> git add .
+> git commit -m "re-initialized everything"
+> git push -u origin master
 > 
