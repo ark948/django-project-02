@@ -2,4 +2,8 @@
 > venv/Scripts/activate
 > pip install django
 > django-admin startproject django_project . (dot will make the project in current directory.)
+- popular version control systems include: github, bitbucket and gitlab.
+> git add .gitignore
+> git add .
+> git commit -m "First commit"
 > 
