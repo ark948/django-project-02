@@ -1,0 +1,5 @@
+> python -m venv venv
+> venv/Scripts/activate
+> pip install django
+> django-admin startproject django_project . (dot will make the project in current directory.)
+> 
